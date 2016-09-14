@@ -1,223 +1,78 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject
-  Version="1"
-  SourceControlBound="false"
-  MasterStylesheet="/Content/Resources/Stylesheets/styles.css"
-  MasterStylesheetOverride="False"
-  xml:lang="en-us"
-  Comment="This template contains some starter topics and other files designed to produce user guides. It is a simpler version of the User Guide Advanced template. Although it is a basic template, the content and files have been designed to maximize single-sourcing capabilities. This template starts you out with two PDF targets, one with crop and registration marks and the other without.  It also has auto-generation of a TOC, glossary, and index. You can add other kinds of targets if you like."
-  IncludePattern="*.*"
-  AutoExcludeNonTaggedFiles="false"
-  IncludeLinkedFiles="false"
-  DeleteStale="false"
-  DeleteUnreferenced="false"
-  AutoSync="true"
-  LastImport="2016-09-12T10:13:14.4691120-07:00">
-  <Files>
-    <Url
-      Source="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/TN and PDF Advanced.flprj"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/TN and PDF Advanced.flprj" />
-  </Files>
-  <ExcludedFiles />
-  <CollectedSourceFiles>
-    <Url
-      Source="../TN and PDF Advanced/Project/VariableSets/General.flvar"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/VariableSets/General.flvar" />
-  </CollectedSourceFiles>
-  <SkippedSourceFiles>
-    <Url
-      Source="../TN and PDF Advanced/Content/Home.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Home.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Read First.pdf"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Read First.pdf" />
-    <Url
-      Source="../TN and PDF Advanced/Content/A_Getting Started/Basic Steps.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/A_Getting Started/Basic Steps.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/A_Getting Started/cubs logo1.jpg"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/A_Getting Started/cubs logo1.jpg" />
-    <Url
-      Source="../TN and PDF Advanced/Content/A_Getting Started/Getting Started.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/A_Getting Started/Getting Started.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/A_Getting Started/Whats New.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/A_Getting Started/Whats New.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/B_Links and Lists/Links.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/B_Links and Lists/Links.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/B_Links and Lists/LinksAndLists.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/B_Links and Lists/LinksAndLists.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/B_Links and Lists/Lists.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/B_Links and Lists/Lists.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/C_Conditions Notes Tables/Conditions.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/C_Conditions Notes Tables/Conditions.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/C_Conditions Notes Tables/Tables.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/C_Conditions Notes Tables/Tables.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/D_Images/ImagePositionedLeft.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/ImagePositionedLeft.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/D_Images/ImagePositionedRight.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/ImagePositionedRight.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/D_Images/Images.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/Images.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/D_Images/ImageWithinList.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/ImageWithinList.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/D_Images/Positioned Images.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/Positioned Images.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/D_Images/ThumbnailImage.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/ThumbnailImage.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/D_Images/Video.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/Video.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/E_Footer Topics/Company Information.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/E_Footer Topics/Company Information.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/E_Footer Topics/FAQs.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/E_Footer Topics/FAQs.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/E_Footer Topics/PDF Downloads.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/E_Footer Topics/PDF Downloads.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/E_Footer Topics/Tips.htm"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/E_Footer Topics/Tips.htm" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/BackgroundImage.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/BackgroundImage.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/BasicSteps.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/BasicSteps.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/Bullet1.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/Bullet1.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/Bullet2.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/Bullet2.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/CompanyLogo.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/CompanyLogo.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/DropDownClosed.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/DropDownClosed.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/DropDownClosedSecondLevel.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/DropDownClosedSecondLevel.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/DropDownOpen.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/DropDownOpen.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/DropDownOpenSecondLevel.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/DropDownOpenSecondLevel.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/FacebookIcon.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/FacebookIcon.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/FAQs.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/FAQs.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/GreenCheck.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/GreenCheck.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/Image.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/Image.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/KeyFeatures.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/KeyFeatures.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/NoteIcon.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/NoteIcon.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/PDF Cover.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/PDF Cover.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/QuotationMark.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/QuotationMark.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/RedX.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/RedX.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/SaveButton.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/SaveButton.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/TwitterIcon.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/TwitterIcon.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Images/WhatsNew.png"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/WhatsNew.png" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/MasterPages/HomePage.flmsp"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/MasterPages/HomePage.flmsp" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/MasterPages/OtherTopics.flmsp"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/MasterPages/OtherTopics.flmsp" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Stylesheets/MainStyles.css"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Stylesheets/MainStyles.css" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/Stylesheets/StylesForHomePage.css"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Stylesheets/StylesForHomePage.css" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/TableStyles/PatternedRows.css"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/TableStyles/PatternedRows.css" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/TableStyles/Simple.css"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/TableStyles/Simple.css" />
-    <Url
-      Source="../TN and PDF Advanced/Content/Resources/TableStyles/Standard.css"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/TableStyles/Standard.css" />
-    <Url
-      Source="../TN and PDF Advanced/Project/ConditionTagSets/General.flcts"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/ConditionTagSets/General.flcts" />
-    <Url
-      Source="../TN and PDF Advanced/Project/Glossaries/Glossary.flglo"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Glossaries/Glossary.flglo" />
-    <Url
-      Source="../TN and PDF Advanced/Project/Reports/Critical Issues Report.flrep"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Reports/Critical Issues Report.flrep" />
-    <Url
-      Source="../TN and PDF Advanced/Project/Reports/Empty Report.flrep"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Reports/Empty Report.flrep" />
-    <Url
-      Source="../TN and PDF Advanced/Project/Reports/Unused Items Report.flrep"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Reports/Unused Items Report.flrep" />
-    <Url
-      Source="../TN and PDF Advanced/Project/Skins/HomeSearchBar.flskn"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Skins/HomeSearchBar.flskn" />
-    <Url
-      Source="../TN and PDF Advanced/Project/Skins/HTML5 - Top Navigation.flskn"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Skins/HTML5 - Top Navigation.flskn" />
-    <Url
-      Source="../TN and PDF Advanced/Project/Skins/SideMenu.flskn"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Skins/SideMenu.flskn" />
-    <Url
-      Source="../TN and PDF Advanced/Project/Skins/TopicToolBar.flskn"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Skins/TopicToolBar.flskn" />
-    <Url
-      Source="../TN and PDF Advanced/Project/Targets/HTML5 - Audience B.fltar"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Targets/HTML5 - Audience B.fltar" />
-    <Url
-      Source="../TN and PDF Advanced/Project/TOCs/Master.fltoc"
-      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/TOCs/Master.fltoc" />
-  </SkippedSourceFiles>
-  <GeneratedFiles>
-    <Url
-      Source="Project/VariableSets/General.flvar"
-      TimeStamp="3/30/2016 3:54:54 PM" />
-  </GeneratedFiles>
+<CatapultProject Version="1" SourceControlBound="true" MasterStylesheet="/Content/Resources/Stylesheets/styles.css" MasterStylesheetOverride="False" xml:lang="en-us" Comment="This template contains some starter topics and other files designed to produce user guides. It is a simpler version of the User Guide Advanced template. Although it is a basic template, the content and files have been designed to maximize single-sourcing capabilities. This template starts you out with two PDF targets, one with crop and registration marks and the other without.  It also has auto-generation of a TOC, glossary, and index. You can add other kinds of targets if you like." IncludePattern="*.*" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="false" DeleteStale="false" DeleteUnreferenced="false" AutoSync="true" LastImport="2016-09-12T10:13:14.4691120-07:00" SourceControlDatabase="C:\Users\jlourash\Documents\My Projects\PDF Test\.git" SourceControlProviderType="Git" ProjectGuid="b78cbaf2-ccf3-437e-9a19-28418c564343" SourceControlDatabaseRoot="C:\Users\jlourash\Documents\My Projects\PDF Test">
+    <Files>
+        <Url Source="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/TN and PDF Advanced.flprj" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/TN and PDF Advanced.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../TN and PDF Advanced/Project/VariableSets/General.flvar" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/VariableSets/General.flvar" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles>
+        <Url Source="../TN and PDF Advanced/Content/Home.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Home.htm" />
+        <Url Source="../TN and PDF Advanced/Content/Read First.pdf" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Read First.pdf" />
+        <Url Source="../TN and PDF Advanced/Content/A_Getting Started/Basic Steps.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/A_Getting Started/Basic Steps.htm" />
+        <Url Source="../TN and PDF Advanced/Content/A_Getting Started/cubs logo1.jpg" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/A_Getting Started/cubs logo1.jpg" />
+        <Url Source="../TN and PDF Advanced/Content/A_Getting Started/Getting Started.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/A_Getting Started/Getting Started.htm" />
+        <Url Source="../TN and PDF Advanced/Content/A_Getting Started/Whats New.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/A_Getting Started/Whats New.htm" />
+        <Url Source="../TN and PDF Advanced/Content/B_Links and Lists/Links.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/B_Links and Lists/Links.htm" />
+        <Url Source="../TN and PDF Advanced/Content/B_Links and Lists/LinksAndLists.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/B_Links and Lists/LinksAndLists.htm" />
+        <Url Source="../TN and PDF Advanced/Content/B_Links and Lists/Lists.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/B_Links and Lists/Lists.htm" />
+        <Url Source="../TN and PDF Advanced/Content/C_Conditions Notes Tables/Conditions.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/C_Conditions Notes Tables/Conditions.htm" />
+        <Url Source="../TN and PDF Advanced/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm" />
+        <Url Source="../TN and PDF Advanced/Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm" />
+        <Url Source="../TN and PDF Advanced/Content/C_Conditions Notes Tables/Tables.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/C_Conditions Notes Tables/Tables.htm" />
+        <Url Source="../TN and PDF Advanced/Content/D_Images/ImagePositionedLeft.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/ImagePositionedLeft.htm" />
+        <Url Source="../TN and PDF Advanced/Content/D_Images/ImagePositionedRight.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/ImagePositionedRight.htm" />
+        <Url Source="../TN and PDF Advanced/Content/D_Images/Images.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/Images.htm" />
+        <Url Source="../TN and PDF Advanced/Content/D_Images/ImageWithinList.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/ImageWithinList.htm" />
+        <Url Source="../TN and PDF Advanced/Content/D_Images/Positioned Images.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/Positioned Images.htm" />
+        <Url Source="../TN and PDF Advanced/Content/D_Images/ThumbnailImage.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/ThumbnailImage.htm" />
+        <Url Source="../TN and PDF Advanced/Content/D_Images/Video.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/D_Images/Video.htm" />
+        <Url Source="../TN and PDF Advanced/Content/E_Footer Topics/Company Information.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/E_Footer Topics/Company Information.htm" />
+        <Url Source="../TN and PDF Advanced/Content/E_Footer Topics/FAQs.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/E_Footer Topics/FAQs.htm" />
+        <Url Source="../TN and PDF Advanced/Content/E_Footer Topics/PDF Downloads.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/E_Footer Topics/PDF Downloads.htm" />
+        <Url Source="../TN and PDF Advanced/Content/E_Footer Topics/Tips.htm" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/E_Footer Topics/Tips.htm" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/BackgroundImage.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/BackgroundImage.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/BasicSteps.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/BasicSteps.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/Bullet1.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/Bullet1.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/Bullet2.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/Bullet2.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/CompanyLogo.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/CompanyLogo.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/DropDownClosed.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/DropDownClosed.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/DropDownClosedSecondLevel.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/DropDownClosedSecondLevel.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/DropDownOpen.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/DropDownOpen.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/DropDownOpenSecondLevel.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/DropDownOpenSecondLevel.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/FacebookIcon.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/FacebookIcon.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/FAQs.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/FAQs.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/GreenCheck.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/GreenCheck.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/Image.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/Image.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/KeyFeatures.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/KeyFeatures.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/NoteIcon.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/NoteIcon.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/PDF Cover.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/PDF Cover.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/QuotationMark.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/QuotationMark.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/RedX.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/RedX.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/SaveButton.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/SaveButton.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/TwitterIcon.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/TwitterIcon.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Images/WhatsNew.png" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Images/WhatsNew.png" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/MasterPages/HomePage.flmsp" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/MasterPages/HomePage.flmsp" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/MasterPages/OtherTopics.flmsp" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/MasterPages/OtherTopics.flmsp" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Stylesheets/MainStyles.css" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Stylesheets/MainStyles.css" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/Stylesheets/StylesForHomePage.css" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/Stylesheets/StylesForHomePage.css" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/TableStyles/PatternedRows.css" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/TableStyles/PatternedRows.css" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/TableStyles/Simple.css" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/TableStyles/Simple.css" />
+        <Url Source="../TN and PDF Advanced/Content/Resources/TableStyles/Standard.css" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Content/Resources/TableStyles/Standard.css" />
+        <Url Source="../TN and PDF Advanced/Project/ConditionTagSets/General.flcts" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/ConditionTagSets/General.flcts" />
+        <Url Source="../TN and PDF Advanced/Project/Glossaries/Glossary.flglo" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Glossaries/Glossary.flglo" />
+        <Url Source="../TN and PDF Advanced/Project/Reports/Critical Issues Report.flrep" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Reports/Critical Issues Report.flrep" />
+        <Url Source="../TN and PDF Advanced/Project/Reports/Empty Report.flrep" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Reports/Empty Report.flrep" />
+        <Url Source="../TN and PDF Advanced/Project/Reports/Unused Items Report.flrep" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Reports/Unused Items Report.flrep" />
+        <Url Source="../TN and PDF Advanced/Project/Skins/HomeSearchBar.flskn" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Skins/HomeSearchBar.flskn" />
+        <Url Source="../TN and PDF Advanced/Project/Skins/HTML5 - Top Navigation.flskn" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Skins/HTML5 - Top Navigation.flskn" />
+        <Url Source="../TN and PDF Advanced/Project/Skins/SideMenu.flskn" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Skins/SideMenu.flskn" />
+        <Url Source="../TN and PDF Advanced/Project/Skins/TopicToolBar.flskn" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Skins/TopicToolBar.flskn" />
+        <Url Source="../TN and PDF Advanced/Project/Targets/HTML5 - Audience B.fltar" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/Targets/HTML5 - Audience B.fltar" />
+        <Url Source="../TN and PDF Advanced/Project/TOCs/Master.fltoc" AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/TN and PDF Advanced/Project/TOCs/Master.fltoc" />
+    </SkippedSourceFiles>
+    <GeneratedFiles>
+        <Url Source="Project/VariableSets/General.flvar" TimeStamp="3/30/2016 3:54:54 PM" />
+    </GeneratedFiles>
 </CatapultProject>
