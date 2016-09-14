@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="User Guide"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression=""
+  PatchHeadingLevels="false"
+  InjectEmptyPages="true"
+  MasterToc="/Project/TOCs/User Guide.fltoc"
+  DisableAutoSync="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <DocumentProperties
+    Title="User Guide"
+    Author="My Name" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="50"
+    PageLayout="TwoColumnRight"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true" />
+  <Variables>
+    <Variable
+      Name="General/UserGuideTitle">Test</Variable>
+    <Variable
+      Name="General/VersionNumber">v7.1</Variable>
+    <Variable
+      Name="General/Version Number">v7.1</Variable>
+  </Variables>
+</CatapultTarget>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="Title"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartPageLayout="false"
+    PageType="title"
+    PageNumberFormat="lower-roman"
+    PageLayout="/Content/Resources/PageLayouts/FrontMatter.flpgl"
+    Link="/Content/TitlePage.htm"
+    BreakType="pageLayout"></TocEntry>
+  <TocEntry
+    Title="CH 1 Welcome"
+    Link="/Content/A_Introduction Topics/Welcome.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled">
+    <TocEntry
+      Title="Headings"
+      Link="/Content/A_Introduction Topics/WhatsNew.htm" />
+    <TocEntry
+      Title="Drop-Downs"
+      Link="/Content/A_Introduction Topics/MoreInformation.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 2 Features"
+    Link="/Content/B_Feature Topics/Features.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="Feature 1"
+      Link="/Content/B_Feature Topics/Feature1.htm" />
+    <TocEntry
+      Title="Feature 2"
+      Link="/Content/B_Feature Topics/Feature2.htm" />
+    <TocEntry
+      Title="Feature 3"
+      Link="/Content/B_Feature Topics/Feature3.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Procedures"
+    Link="/Content/C_Procedure Topics/Procedures.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled">
+    <TocEntry
+      Title="Procedure 1"
+      Link="/Content/C_Procedure Topics/Procedure1.htm" />
+    <TocEntry
+      Title="Procedure 2"
+      Link="/Content/C_Procedure Topics/Procedure2.htm" />
+    <TocEntry
+      Title="Procedure 3"
+      Link="/Content/C_Procedure Topics/Procedure3.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Glossary"
+    Link="/Content/Glossary.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/NewPageLayout.flpgl" />
+</CatapultToc>
